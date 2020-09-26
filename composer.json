@@ -1,5 +1,5 @@
 {
-	"name" : "robrichards/wse-php",
+	"name" : "edata-la/wse-php",
 	"description" : "Libraries for adding WS-* support to ext/soap in PHP.",
 	"authors" : [{
 			"name" : "Rob Richards",
