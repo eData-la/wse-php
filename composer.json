@@ -21,6 +21,6 @@
 	},
 	"require" : {
 		"php" : ">= 5.3",
-		"robrichards/xmlseclibs" : ">=3.0.4"
+		"edata-la/xmlseclibs" : "dev-master"
 	}
 }
